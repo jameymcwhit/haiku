@@ -1,6 +1,8 @@
 # Here is a comment.
 # This too is a comment.
 
+# Trying something new.
+
 puts("Sunny Day")
 
 puts("It's too bright outside.")
