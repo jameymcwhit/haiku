@@ -2,6 +2,7 @@
 # This too is a comment.
 
 
+
 puts("Sunny Day")
 
 puts("It is too bright outside.")
