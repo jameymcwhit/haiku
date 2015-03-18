@@ -1,7 +1,5 @@
 puts("Sunny Day")
 
-
-# New comment.
 puts("It's too bright outside.")
 puts("I'm far too sleepy for this light.")
 puts("Best go back to bed.")
